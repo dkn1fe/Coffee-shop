@@ -1,0 +1,16 @@
+.footer-buttons{
+ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:40px;
+    padding-bottom:10px;
+}
+li{
+    list-style: none;
+    color:black;
+    margin-top:50px;
+    display: flex;
+    align-items: center;
+}
+}

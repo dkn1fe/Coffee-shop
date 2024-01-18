@@ -1,0 +1,36 @@
+
+.beans{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:15px;
+     div{
+         width: 60px;
+         height: 1px;
+         background-color: white;
+     }
+}
+.header-title{
+    h2{
+        font-size: 40px;
+        color:white;
+    }
+}
+.header-info{
+    color:white;
+    text-align: center;
+}
+
+
+.header-button{
+    button{
+        padding:6px 42px;
+        border:1px solid white;
+        border-radius:3px;
+        font-family: "Merienda";
+        font-weight: 700px;
+        font-size: 14px;
+        color:white;
+        background-color: transparent;
+    }
+}

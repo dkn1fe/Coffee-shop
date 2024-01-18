@@ -1,0 +1,32 @@
+
+.header-second{
+    background: url('../img/bgForProject/bgOurCoffee.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 35vh;
+}
+
+.about-second{
+    max-width: 900px;
+    margin: 0 auto;
+    padding-top:10px;
+}
+
+.search-panel-second{
+    max-width:920px;
+    margin:0 auto;
+    padding-top:66px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.coffeeList{
+    display: flex;
+    align-items: center;
+    padding-top:66px;
+    gap:71px;
+    max-width: 900px;
+    margin: 0 auto;
+    flex-wrap: wrap;
+}

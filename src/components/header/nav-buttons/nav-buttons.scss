@@ -1,0 +1,28 @@
+
+.nav-buttons{
+    ul{
+        display: flex;
+        align-items:center ;
+        gap:40px;
+    }
+    li{
+        list-style: none;
+        color:white;
+        margin-top:50px;
+        display: flex;
+        align-items: center;
+    }
+    a{
+        text-decoration: none;
+        color:white;
+    }
+}
+
+.btn-home{
+    margin-top:-10px;
+}
+
+.container{
+  max-width:1300px;
+  margin:0 auto;
+}

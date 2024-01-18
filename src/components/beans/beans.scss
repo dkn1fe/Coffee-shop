@@ -1,0 +1,11 @@
+.blackBeans{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:15px;
+    div{
+        width:60px;
+        background-color:black;
+        height: 1px;
+    }
+}

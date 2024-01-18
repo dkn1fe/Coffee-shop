@@ -1,0 +1,25 @@
+
+.card{
+    border-radius: 8px;
+    text-align: center;
+    font-family: 'Merienda';
+    font-weight: 400px;
+    background: rgba(255, 255, 255, 0.65);
+    &-container{
+        margin:21px 22px;
+     }
+     &-title{
+        p{
+         font-size: 14px;
+      text-align: right;
+        }
+     }
+     &-price{
+        p{
+            text-align: right;
+            font-size: 14px;
+            font-weight: bold;
+        }
+     }
+     
+}   
